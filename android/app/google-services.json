@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1067314868853",
+    "firebase_url": "https://ets-app-2af97-default-rtdb.firebaseio.com",
+    "project_id": "ets-app-2af97",
+    "storage_bucket": "ets-app-2af97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067314868853:android:79b931543648df2bc9be3c",
+        "android_client_info": {
+          "package_name": "com.ets_customer.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvnbS1bBdE_JwjFwuDTsTe9ppmNxrkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067314868853:android:13c766ca98c1b2fbc9be3c",
+        "android_client_info": {
+          "package_name": "com.ets_driver.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmvnbS1bBdE_JwjFwuDTsTe9ppmNxrkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,320 @@
+{
+    "sorry_something_went_wrong":"மன்னிக்கவும் ஏதோ தவறாகிவிட்டது",
+    "about_us":"எங்களை பற்றி",
+    "your_emergency_contact_added_successfully":"உங்கள் அவசர தொடர்பு வெற்றிகரமாக சேர்க்கப்பட்டது",
+    "Chat":"உரையாடல்",
+    "update_new_version":"புதிய பதிப்பைப் புதுப்பிக்கவும்",
+    "receipt":"ரசீது",
+    "chat_with_driver":"டிரைவருடன் உரையாடல்",
+    "enter_your_phone_number":"உங்கள் தொடர்பு எண்ணை அளிக்கவும்",
+    "need_enter_your_phone_number":"உங்கள் தொலைபேசி எண்ணை உள்ளிட வேண்டும்",
+    "how_can_we_help_you":"உங்களுக்கு எவ்வாறு உதவலாம்?",
+    "select_the_reason":"காரணத்தைத் தேர்ந்தெடுக்கவும்",
+    "complaint":"புகார்",
+    "submit":"சமர்ப்பிக்கவும்",
+    "enter_your_email_address":"உங்கள் மின்னஞ்சல் முகவரியை உள்ளிடவும்",
+    "you_need_enter_your_email_address":"உங்கள் மின்னஞ்சல் முகவரியை உள்ளிட வேண்டும்",
+    "enter_your_name":"உங்கள் பெயரை உள்ளிடவும்",
+    "enter_your_first_name_and_last_name":"உங்கள் முதல் பெயர் மற்றும் கடைசி பெயரை உள்ளிடவும்",
+    "next":"அடுத்தது",
+    "create_your_new_password":"உங்கள் புதிய கடவுச்சொல்லை உருவாக்கவும்",
+    "enter_your_first_name":"உங்கள் முதல் பெயரை உள்ளிடவும்",
+    "contact_number":"தொடர்பு எண்",
+    "who_we_are":"நாங்கள் யார்?",
+    "add_emergency_contact":"அவசரத் தொடர்பைச் சேர்க்கவும்",
+    "add_emergency_contact_name_and_number":"அவசரகால தொடர்பு பெயர் மற்றும் எண்ணைச் சேர்க்கவும்",
+    "thanks_for_using":"பயன்படுத்தியதற்கு நன்றி",
+    "total":"மொத்தம்",
+    "rideprice":"சவாரி விலை",
+    "we_hope_you_enjoyed_your_ride":"உங்கள் பயணத்தை நீங்கள் ரசித்தீர்கள் என்று நம்புகிறோம்",
+    "details":"விவரங்கள்",
+    "pickup_address":"பிக் அப் முகவரி",
+    "drop_address":"டிராப் முகவரி",
+    "needhelp":"உதவி தேவை",
+    "feelfree_register_your_complaint_if_you_face_any_struggles_in_your_trips_we_will_help_you_to_rectify_to_give_you_best_satisfaction":"உங்கள் பயணங்களில் ஏதேனும் சிரமங்களை எதிர்கொண்டால், உங்கள் புகாரை தயங்காமல் பதிவு செய்யுங்கள்",
+    "support":"ஆதரவு",
+    "home":"வீடு",
+    "write_review":"விமர்சனம் எழுதுக",
+    "validation_error":"சரிபார்ப்பு பிழை",
+    "please_enter_valid_phone_number":"சரியான தொலைபேசி எண்ணை உள்ளிடவும்",
+    "you_need_enter_your_phone_number":"உங்கள் தொலைபேசி எண்ணை உள்ளிட வேண்டும்",
+    "login_register":"உள்நுழையவும் / பதிவு செய்யவும்",
+    "complaint_category_name":"புகார் வகையின் பெயர்",
+    "subject":"பொருள்",
+    "enter_details_about_your_complaint":"உங்கள் புகார் பற்றிய விவரங்களை உள்ளிடவும்",
+    "email":"மின்னஞ்சல்",
+    "please_enter_all_the_required_fields":"தேவையான அனைத்து புலங்களையும் உள்ளிடவும்",
+    "first_name":"முதல் பெயர்",
+    "please_enter_your_password":"தங்கள் கடவு சொல்லை பதிவு செய்யவும்",
+    "your_password_and_confirm_password_did_not_match":"உங்கள் கடவுச்சொல் மற்றும் கடவுச்சொல் பொருந்தவில்லை என்பதை உறுதிப்படுத்தவும்",
+    "response_data_message":"பதில் தரவு செய்தி",
+    "message":"செய்தி",
+    "create_your_password":"உங்கள் கடவுச்சொல்லை உருவாக்கவும்",
+    "password":"கடவுச்சொல்",
+    "confirm_password":"கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+    "register":"பதிவு",
+    "applied":"விண்ணப்பிக்கப்பட்டது",
+    "no_data_found":"வேறு தகவல்கள் இல்லை",
+    "location_added_in_your_favourite_spot":"உங்களுக்குப் பிடித்த இடத்தில் இடம் சேர்க்கப்பட்டது!",
+    "sorry_promo_not_applied":"மன்னிக்கவும் விளம்பரம் பயன்படுத்தப்படவில்லை!",
+    "booking_placed_successfully":"முன்பதிவு வெற்றிகரமாக முடிந்தது",
+    "you_can_see_your_bookings_in_my_rides_menu":"எனது ரைட்ஸ் மெனுவில் உங்கள் முன்பதிவுகளைப் பார்க்கலாம்.",
+    "driver_not_available_try_again":"டிரைவர் கிடைக்கவில்லை மீண்டும் முயற்சிக்கவும்",
+    "sorry":"மன்னிக்கவும்",
+    "hr":"மணி",
+    "km":"கி.மீ",
+    "where_are_u_going":"எங்கே போகிறாய்?",
+    "confirm_location":"இருப்பிடத்தை உறுதிப்படுத்தவும்",
+    "locate_on_map":"வரைபடத்தில் கண்டறிக",
+    "favourites":"பிடித்தவை",
+    "km_package":"கிமீ தொகுப்பு",
+    "pickup_date_label":"பிக்கப் தேதி லேபிள்",
+    "available_rides":"கிடைக்கும் சவாரிகள்",
+    "you_have":"உங்களிடம் உள்ளது",
+    "in_your_wallet":"உங்கள் பணப்பையில்!",
+    "cash":"பணம்",
+    "coupons":"கூப்பன்கள்",
+    "book_now":"பதிவு",
+    "save_as_favourite":"பிடித்ததாக சேமிக்கவும்",
+    "cancel":"ரத்து செய்",
+    "save":"சேமிக்கவும்",
+    "please_wait_while_searching_the_driver":"டிரைவரைத் தேடும் போது காத்திருக்கவும்...",
+    "promo_codes":"விளம்பர குறியீடுகள்",
+    "off":"ஆஃப்",
+    "apply":"விண்ணப்பிக்கவும்",
+    "please_enter_valid_email":"சரியான மின்னஞ்சலை உள்ளிடவும்",
+    "successfully_updated":"வெற்றிகரமாக புதுப்பிக்கப்பட்டது",
+    "your_email_has_been_updated":"உங்கள் மின்னஞ்சல் புதுப்பிக்கப்பட்டது.",
+    "enter_your_email":"மின்னஞ்சலை பதிவுசெய்",
+    "you_need_enter_your_email":"உங்கள் மின்னஞ்சலை உள்ளிட வேண்டும்",
+    "done":"முடிந்தது",
+    "please_enter_your_first_name":"உங்கள் முதல் பெயரை உள்ளிடவும்",
+    "your_first_name_has_been_updated":"உங்கள் முதல் பெயர் புதுப்பிக்கப்பட்டது.",
+    "you_need_enter_your_first_name":"உங்கள் முதல் பெயரை உள்ளிட வேண்டும்",
+    "please_enter_your_last_name":"உங்கள் கடைசி பெயரை உள்ளிடவும்",
+    "enter_your_last_name":"உங்கள் கடைசி பெயரை உள்ளிடவும்",
+    "you_need_enter_your_last_name":"உங்கள் கடைசி பெயரை உள்ளிட வேண்டும்",
+    "last_name":"கடைசி பெயர்",
+    "setup_emergency_contacts":"அவசரத் தொடர்புகளை அமைக்கவும்",
+    "add_your_contact":"உங்கள் தொடர்பைச் சேர்க்கவும்",
+    "add_contacts":"தொடர்புகளைச் சேர்க்கவும்",
+    "emergency_contacts":"அவசரத் தொடர்புகள்",
+    "faq":"கேள்விகள்",
+    "please_enter_your_registered_phone_number":"உங்கள் பதிவு செய்யப்பட்ட தொலைபேசி எண்ணை உள்ளிடவும்",
+    "please_enter_your_phone_number_for_reset_the_password":"கடவுச்சொல்லை மீட்டமைக்க உங்கள் தொலைபேசி எண்ணை உள்ளிடவும்",
+    "please_allow":"தயவுசெய்து அனுமதிக்கவும்",
+    "to_enable_your_gps_for_accurate_pickup":"துல்லியமான பிக்அப்பிற்கு உங்கள் GPS ஐ இயக்க.",
+    "enable_gps":"ஜிபிஎஸ் இயக்கவும்",
+    "loading":"ஏற்றுகிறது...",
+    "fare":"கட்டணம்",
+    "distance":"தூரம்",
+    "my_rides":"எனது சவாரிகள்",
+    "ongoing":"நடந்து கொண்டிருக்கிறது",
+    "completed":"நிறைவு",
+    "cancelled":"ரத்து செய்யப்பட்டது",
+    "notifications":"அறிவிப்புகள்",
+    "please_enter_valid_otp":"சரியான OTP ஐ உள்ளிடவும்",
+    "enter_the_otp":"OTP ஐ உள்ளிடவும்",
+    "enter_your_otp_received_from_the_sms":"SMS இலிருந்து பெறப்பட்ட உங்கள் OTP ஐ உள்ளிடவும்",
+    "enter_your_password":"உங்கள் கடவுச்சொல்லை உள்ளிடவும்",
+    "you_need_enter_your_password":"உங்கள் கடவுச்சொல்லை உள்ளிட வேண்டும்",
+    "forgot_password":"கடவுச்சொல்லை மறந்துவிட்டீர்களா?",
+    "login":"உள்நுழைய",
+    "payment_methods":"பணம் செலுத்தும் முறைகள்",
+    "razorpay":"ரேஸர்பே",
+    "paypal":"பேபால்",
+    "privacy_policies":"தனியுரிமைக் கொள்கைகள்",
+    "error_on_while_upload_try_again_later":"பதிவேற்றும் போது பிழை பின்னர் மீண்டும் முயற்சிக்கவும்.",
+    "edit_profile":"சுயவிவரத்தைத் திருத்து",
+    "say_a_little_bit_about_yourself":"உங்களைப் பற்றி கொஞ்சம் சொல்லுங்கள்...",
+    "phone_number":"தொலைபேசி எண்",
+    "how_was_your_trip":"உங்களது பயணம் எப்படி இருந்தது ?",
+    "Give_your_valuable_ratings_and_feedback_to_improve_our_services":"எங்கள் சேவைகளை மேம்படுத்த உங்கள் மதிப்புமிக்க மதிப்பீடுகள் மற்றும் கருத்துக்களை வழங்கவும்",
+    "comment":"கருத்து",
+    "reset_your_password":"உங்கள் கடவுச்சொல்லை மீட்டமைக்க",
+    "not_available":"கிடைக்கவில்லை",
+    "our_service_is_not_available_in_your_location":"எங்கள் சேவை உங்கள் இருப்பிடத்தில் இல்லை.!",
+    "change_password":"கடவுச்சொல்லை மாற்று",
+    "password_has_been_changed_successfully":"கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது",
+    "get_more_benefits":"மேலும் பலன்களைப் பெறுங்கள்",
+    "pro_membership":"சார்பு உறுப்பினர்",
+    "join_today_to_our_pro_membership_and_get_more_benefits_like_free_rides_discounts_exclusive_offers_like_that":"இன்றே எங்கள் ப்ரோ மெம்பர்ஷிப்பில் சேருங்கள் மற்றும் இலவச சவாரிகள் தள்ளுபடிகள் போன்ற பிரத்தியேக சலுகைகளைப் பெறுங்கள்",
+    "monthly":"மாதாந்திர",
+    "annually":"ஆண்டுதோறும்",
+    "free_ride_cancellations":"இலவச சவாரி ரத்து",
+    "priority_riding":"முன்னுரிமை சவாரி",
+    "upto_100_free_rides_a_month":"ஒரு மாதத்திற்கு 100 இலவச சவாரிகள் வரை",
+    "upgrade_to_pro":"Pro ஆக மேம்படுத்தவும்",
+    "terms_conditions":"விதிமுறைகளும் நிபந்தனைகளும்",
+    "your_tip_added_successfully":"உங்கள் உதவிக்குறிப்பு வெற்றிகரமாக சேர்க்கப்பட்டது!",
+    "thank_you":"நன்றி",
+    "sorry_unable_to_fetch_your_location":"மன்னிக்கவும், உங்கள் இருப்பிடத்தைப் பெற முடியவில்லை",
+    "add_a_tip_for_your_driver":"உங்கள் டிரைவருக்கு ஒரு உதவிக்குறிப்பைச் சேர்க்கவும்",
+    "the_entire_amount_will_be_transferred_to_the_rider_valid_only_if_you_pay_online":"முழுத் தொகையும் ரைடருக்கு மாற்றப்படும். ஆன்லைனில் பணம் செலுத்தினால் மட்டுமே செல்லுபடியாகும்.",
+    "reason_to_cancel_your_ride":"உங்கள் பயணத்தை ரத்து செய்வதற்கான காரணம்.",
+    "amount_successfully_added_to_your_wallet":"உங்கள் வாலட்டில் தொகை வெற்றிகரமாகச் சேர்க்கப்பட்டது",
+    "total_wallet_balance":"மொத்த வாலட் இருப்பு",
+    "top_up":"டாப் அப் +",
+    "transactions_list":"பரிவர்த்தனைகள் பட்டியல்",
+    "all":"அனைத்து",
+    "expenses":"செலவுகள்",
+    "receives":"பெறுகிறது",
+    "sarath_kannan":"சரத் ​​கண்ணன்",
+    "your_feedback_will_help_improve_driving_experience":"உங்கள் கருத்து ஓட்டுநர் அனுபவத்தை மேம்படுத்த உதவும்",
+    "transaction_declined":"பரிவர்த்தனை நிராகரிக்கப்பட்டது",
+    "your_otp_code_is":"உங்கள் OTP குறியீடு: #",
+    "hello":"வணக்கம்",
+    "dashboard":"டாஷ்போர்டு",
+    "ride_histories_invoice_complaints":"சவாரி வரலாறுகள் விலைப்பட்டியல் புகார்கள்",
+    "profile_settings":"சுயவிவர அமைப்புகள்",
+    "edit_your_profile_details":"உங்கள் சுயவிவர விவரங்களைத் திருத்தவும்",
+    "wallet":"பணப்பை",
+    "notification":"அறிவிப்பு",
+    "add_sos_contacts":"SOS தொடர்புகளைச் சேர்க்கவும்",
+    "faqs":"அடிக்கடி கேட்கப்படும் கேள்விகள்",
+    "admin_chat":"நிர்வாகி உரையாடல்",
+    "contact_admin_for_emergency_purpose":"அவசர நோக்கத்திற்காக நிர்வாகியைத் தொடர்பு கொள்ளவும்",
+    "logout":"வெளியேறு"
+
+
+}
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+    
